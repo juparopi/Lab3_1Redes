@@ -14,9 +14,9 @@ logging.basicConfig(
 )
 
 def clientFunction(name):
-    PORT = 9000
+    PORT = 9005
     FORMAT = 'utf-8'
-    SERVER = "127.0.0.1"
+    SERVER = "192.168.231.128"
     ADDR = (SERVER, PORT)
     FILES_DIR = 'archivos'
     LOGS_DIR = 'logs'
