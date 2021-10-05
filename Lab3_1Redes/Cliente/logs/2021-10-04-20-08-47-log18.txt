@@ -1,5 +1,0 @@
-Se recibe el archivo 100.txt 
-El archivo pesa 104857600 bytes
-El archivo de 104857600 bytes se recibio de forma exitosa
-Tiempo de transmicion fue: 35.93 s 
-El archivo de 104857600 bytes se recibio de forma exitosa
